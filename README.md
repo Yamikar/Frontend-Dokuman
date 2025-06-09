@@ -1,2 +1,2 @@
 # Frontend-Dokuman
-okumanızı tavsiye ettiğim medium gibi diğer kaynaklar 
+okumanızı tavsiye ettiğim medium gibi diğer kaynaklar.
